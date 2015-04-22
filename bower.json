@@ -1,0 +1,26 @@
+{
+  "name": "angular-motion-sass",
+  "version": "0.0.1",
+  "homepage": "https://github.com/web-mech/angular-motion-sass",
+  "authors": [
+    "webmech <webmech@gmail.com>"
+  ],
+  "description": "A port of mgcrea's angular-motion using sass",
+  "keywords": [
+    "ngAnimate",
+    "Angular",
+    "Motoin",
+    "css3",
+    "animation",
+    "less",
+    "sass"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
