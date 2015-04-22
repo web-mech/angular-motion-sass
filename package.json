@@ -1,0 +1,34 @@
+{
+  "name": "angular-motion-sass",
+  "version": "0.0.1",
+  "description": "A port of mgcrea's angular-motion using sass",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/web-mech/angular-motion-sass.git"
+  },
+  "keywords": [
+    "ngAnimate",
+    "Angular",
+    "Motion",
+    "css3",
+    "less",
+    "sass"
+  ],
+  "author": " <webmech@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/web-mech/angular-motion-sass/issues"
+  },
+  "homepage": "https://github.com/web-mech/angular-motion-sass",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-sass": "^1.3.3"
+  },
+  "dependencies": {
+    "gulp-rename": "^1.2.2"
+  }
+}
